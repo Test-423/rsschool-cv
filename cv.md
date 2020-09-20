@@ -44,3 +44,4 @@ function duplicateCount(text){
 ---
 ### Languages:
 * English: A2 
+---

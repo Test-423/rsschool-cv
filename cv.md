@@ -3,7 +3,7 @@
 ### Contacts:
  - Email: hobitt.as@gmail.com
  - VK: [Tim](https://vk.com/foreverr_funn)
- - GitHub: [Test-423](https://github.com/Test-423
+ - GitHub: [Test-423](https://github.com/Test-423)
 ---
 ### Summary
 > I strive for learning JavaScript and studying FrontEnd specialty. I also **process information quickly** and have such strengths like **patience**, **perseverance** and **creativity**, to create Web Pages and simple Web Servers.I **ALWAYS** aspire to learn more and more about Programming.

@@ -1,18 +1,19 @@
-# Dzubinsky Timophey
+# Timophey Alexandrovich
 ---
 ### Contacts:
- - Email: hobitt.as@gmail.com
- - VK: [Tim](https://vk.com/foreverr_funn)
+ - Email: tima.dz@yandex.ru
+ - VK: [Timophey](https://vk.com/foreverr_funn)
  - GitHub: [Test-423](https://github.com/Test-423)
 ---
 ### Summary
 > I strive for learning JavaScript and studying FrontEnd specialty. I also **process information quickly** and have such strengths like **patience**, **perseverance** and >**creativity**, to create Web Pages and simple Web Servers.I **ALWAYS** aspire to learn more and more about Programming.
 ---
 ### Skills
- - Know **HTM**L and **CSS** well enough. 
- - Nowadays learning **JS** . 
- - Studied **BEM** methodology.
- - Have experience using **Git** and **GitHub**. 
+ - **HTML** **CSS** 
+ - **JS** 
+ - **BEM**
+ - **Git**
+ - **Node.js**
 ---
 ### Code example
 ```javascript 

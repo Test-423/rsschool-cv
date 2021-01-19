@@ -7,7 +7,7 @@
  - Telegram: [@test_423_rss](https://t.me/test_423_rss)
 ---
 ### Summary
-> Just learning programming for myself. I always try to do my best and achive all my goals. **High speed** of information processing ,**patience**, **perseverance** and >**creativity** are about me. I **ALWAYS** aspire to learn more and more about Programming. That is why I am the best variant for Epam Web Development Group
+> Just learning programming for myself. I always try to do my best and achive all my goals. **High speed** of information processing ,**patience**, **perseverance** and **creativity** are about me. I **ALWAYS** aspire to learn more and more about Programming. That is why I am the best variant for Epam ___Web Development Group___
 ---
 ### Skills
  - **HTML** **CSS** 

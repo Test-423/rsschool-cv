@@ -4,9 +4,10 @@
  - Email: tima.dz@yandex.ru
  - VK: [Timophey](https://vk.com/foreverr_funn)
  - GitHub: [Test-423](https://github.com/Test-423)
+ - Telegram: [@test_423_rss](https://t.me/test_423_rss)
 ---
 ### Summary
-> I strive for learning JavaScript and studying FrontEnd specialty. I also **process information quickly** and have such strengths like **patience**, **perseverance** and >**creativity**, to create Web Pages and simple Web Servers.I **ALWAYS** aspire to learn more and more about Programming.
+> Just learning programming for myself. I always try to do my best and achive all my goals. **High speed** of information processing ,**patience**, **perseverance** and >**creativity** are about me. I **ALWAYS** aspire to learn more and more about Programming. That is why I am the best variant for Epam Web Development Group
 ---
 ### Skills
  - **HTML** **CSS** 

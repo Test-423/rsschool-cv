@@ -17,30 +17,23 @@
 ---
 ### Code example
 ```javascript 
-function duplicateCount(text){
-  const _ = require("lodash");
-  let str = text.toLowerCase();
-  let col = str.length;
-  let morin = [];
-  let iter;
-  for(let i=0;i<col;i++){
-    iter = 0;
-    for(let j=0;j<col;j++){
-    if(str[i]===str[j]) {iter++; }
-    if(iter===2){
-      morin.push(str[i]); iter++;
-    }
-      }
-  }
-  morin.sort();
-  let sum = _.sortedUniq(morin);
-  return sum.length;
+function add(a, b) {
+  let c=0,res="";
+a=a.split(""),b=b.split("")
+while(a.length|| b.length || c){
+  c = +(a.length>0?a.pop():0)+ +(b.length>0?b.pop():0)+c
+  res=c%10+res
+  c=Math.floor(c/10)
+}
+  res=res.replace(/^[0]*/g,"");
+  return res
 }
 ```
 ---
 ### Education
- 1.  JavaScript Development (RS School) 
- 2.  GeekBrains OOP Basics.
+ 1.  JavaScript Development (RS School)
+ 2.  BSUIR C++ OOP
+ 3.  GeekBrains OOP Basics.
  
 ---
 ### Languages:

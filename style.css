@@ -9,7 +9,7 @@ body {
   --main-color: rgb(255, 255, 255);
   --yel-color: rgb(255, 255, 0);
   --local-color: rgb(164, 165, 166);
-  background-image: url(/images/back.jpg);
+  background-image: url(../images/back.jpg);
   background-position: center;
   background-size: cover;
   font-size: 20px;

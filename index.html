@@ -14,42 +14,42 @@
          <img src="images/avatar.jpg" alt="profile avatar" class="header__image">
       </div>
       <div class="rightside">
-         <div class="header__infolock">
-            <h1 class="bolden__argumentic" ">TIMOPHEY ALEXANDROVICH</h1>
-            <p class=" localtext">Web Developer</p><br>
-               <hr> <br>
-               <div class="header__list">
-                  <div class="header__contact">
-                     <p class="localtext">Location:</p>
-                     <span class="localtext bolden">Minsk , Belarus</span>
-                  </div>
-                  <div class="header__contact">
-                     <p class="localtext">Email:</p>
-                     <a href="mailto:tima.dz@yandex.ru" class="localtext linked">tima.dz@yandex.ru</a>
-                  </div>
-                  <div class="header__contact">
-                     <p class="localtext">Email:</p>
-                     <a href="https://vk.com/foreverr_funn" class="localtext linked">Timophey</a>
-                  </div>
-                  <div class="header__contact">
-                     <p class="localtext">Telegram:</p>
-                     <a href="https://t.me/test_423_rss" class="localtext linked">@test_423_rss</a>
-                  </div>
-                  <div class="header__contact">
-                     <p class="localtext">GitHub:</p>
-                     <a href="https://github.com/Test-423" class="localtext linked">Test-423</a>
-                  </div>
-               </div>
-         </div>
+         <nav class="header__infolock">
+            <h1 class="bolden__argumentic">TIMOPHEY ALEXANDROVICH</h1>
+            <h3 class="localtext">Web Developer</h3><br>
+            <hr> <br>
+            <ul class="header__list">
+               <li class="header__contact">
+                  <p class="localtext">Location:</p>
+                  <span class="localtext bolden">Minsk , Belarus</span>
+               </li>
+               <li class="header__contact">
+                  <p class="localtext">Email:</p>
+                  <a href="mailto:tima.dz@yandex.ru" class="localtext linked">tima.dz@yandex.ru</a>
+               </li>
+               <li class="header__contact">
+                  <p class="localtext">Email:</p>
+                  <a href="https://vk.com/foreverr_funn" class="localtext linked">Timophey</a>
+               </li>
+               <li class="header__contact">
+                  <p class="localtext">Telegram:</p>
+                  <a href="https://t.me/test_423_rss" class="localtext linked">@test_423_rss</a>
+               </li>
+               <li class="header__contact">
+                  <p class="localtext">GitHub:</p>
+                  <a href="https://github.com/Test-423" class="localtext linked">Test-423</a>
+               </li>
+            </ul>
+         </nav>
       </div>
    </header>
    <div class="conteiner">
-      <div class="leftside">
-         <div class="maintext">INTRO</div>
+      <section class="leftside">
+         <h5 class="maintext">INTRO</h5>
          <div class="localtext bolden">Main characteristics</div>
-      </div>
+      </section>
       <div class="rightside darkerback">
-         <div style="line-height: 32px;">
+         <main style="line-height: 32px;">
             Just learning programming for myself. I always try to do my best and achive all my goals. <span
                class="bolden">High speed</span> of
             information processing , <span class="bolden">patience</span>, <span class="bolden">perseverance</span><span
@@ -58,14 +58,14 @@
             and more about Programming. That is why I am the best variant for <span class="bolden">Epam Web
                Development
                Group</span>
-         </div>
+         </main>
       </div>
    </div>
    <div class="conteiner">
-      <div class="leftside darkerback">
-         <div class="maintext">SKILLS</div>
+      <section class="leftside darkerback">
+         <h5 class="maintext">SKILLS</h5>
          <div class="localtext bolden">My personal knowledge</div>
-      </div>
+      </section>
       <div class="rightside">
          <ul class="stattable maintext">
             <li class="dics"><span class="bolden"> HTML </span>,<span class="bolden"> CSS </span>+<span class="bolden">
@@ -74,14 +74,15 @@
                   class="bolden"> Webpack
                </span></li>
             <li class="dics"><span class="bolden"> Git </span>,<span class="bolden"> Figma </span></li>
+            <li class="dics"><span class="bolden"> English: </span><span class="bolden__argumentic"> A2 </span></li>
          </ul>
       </div>
    </div>
    <div class="conteiner">
-      <div class="leftside">
-         <div class="maintext">EDUCATION</div>
+      <section class="leftside">
+         <h5 class="maintext">EDUCATION</h5>
          <div class="localtext bolden">My programming stages</div>
-      </div>
+      </section>
       <div class="rightside darkerback">
          <ul class="stattable maintext">
             <li class="dics">JavaScript Development ( <span class="bolden__argumentic">RS School</span> )</li>
@@ -90,6 +91,23 @@
          </ul>
       </div>
    </div>
+   <footer class="conteiner">
+      <section class="leftside darkerback">
+         <h5 class="maintext">Code</h5>
+         <div class="localtext bolden">Code example</div>
+      </section>
+      <div class="rightside">
+         <div class="maintext">
+            <p class="bolden__argumentic">Is Prime</p><br>
+            <pre><code>function isPrime(num) {
+               let s = Math.sqrt(num);
+               for(let i = 2; i &lt;= s; i++)
+                 if(num % i === 0) return false;
+               return num > 1;
+             }</code></pre>
+         </div>
+      </div>
+   </footer>
 </body>
 
 </html>
